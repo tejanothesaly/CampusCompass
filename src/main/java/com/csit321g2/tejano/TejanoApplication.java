@@ -8,7 +8,7 @@ public class TejanoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TejanoApplication.class, args);
-		System.out.println("Ok");
+		System.out.println("Sakto ra imong Kod kol");
 	}
 
 }
